@@ -4,20 +4,19 @@ Olá, me chamo Wesley Sales, sou um estudante de Desenvolvimento de Sistemas apa
 
 🛠Também tenho interesse e estudo sobre Desenvolvimento ágil, com cursos e leituras sobre Metodologias, Design Patterns e Testes.
 
+- [WesleySales-Curriculo.pdf](/resume/pt/WesleySales-Curriculo.pdf).
+
 ##
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=WesleySales&show_icons=true&theme=dark"
-    srcset="https://github-readme-stats.vercel.app/api?username=WesleySales&show_icons=true&theme=dracule"
-    media="(prefers-color-scheme: dracule)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=WesleySales&show_icons=true"
-    media="(prefers-color-scheme: dracule ), (prefers-color-scheme: dracule)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=WesleySales&show_icons=true" />
-</picture>
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 10px; flex-wrap: wrap; align-items: center;">
+
+![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=wesleysales&show_icons=true&theme=tokyonight)
+
+![Wesley's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysales&theme=tokyonight&layout=compact)
+
+</div>
 
 
 
@@ -32,8 +31,7 @@ Olá, me chamo Wesley Sales, sou um estudante de Desenvolvimento de Sistemas apa
       <img align="center" alt="Wesley-postegreSQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="center" alt="Wesley-postman" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 
-                   
-</div>
+                  
 
 ##
 
