@@ -4,7 +4,7 @@ Olá, me chamo Wesley Sales, sou um estudante de Desenvolvimento de Sistemas apa
 
 🛠Também tenho interesse e estudo sobre Desenvolvimento ágil, com cursos e leituras sobre Metodologias, Design Patterns e Testes.
 
-- [WesleySales-Curriculo.pdf](/resume/pt/WesleySales-Curriculo.pdf).
+- [WesleySales-Curriculo.pdf](/curriculo/WesleySales-Curriculo.pdf).
 
 ##
 
