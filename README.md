@@ -16,7 +16,7 @@ Olá, me chamo Wesley Sales, sou estudante de Sistemas de Informação (UNEB) e 
 
 ### Linguagens e Tecnologias
 <div style="display: inline_block"><br>
-      <img align="center" alt="Wesley-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
+      <img align="center" alt="Wesley-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
       <img align="center" alt="Wesley-Spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
       <img align="center" alt="Wesley-Spring" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
       <img align="center" alt="Wesley-C" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
